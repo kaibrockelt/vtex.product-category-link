@@ -8,7 +8,7 @@
 
 Product Summary addon providing a deeplink into a product's final category. It is supposed to be used within a [product summary](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-summary), alongside with components such as the [Shelf](https://vtex.io/docs/components/all/vtex.shelf/) and the [Minicart](https://vtex.io/docs/components/all/vtex.minicart/).
 
-![image](https://user-images.githubusercontent.com/284515/70235170-1a503a80-1741-11ea-952d-07b178995f92.png)
+![categorylink](https://user-images.githubusercontent.com/93577143/152136528-6eb3a2a1-d6b2-47c0-85fc-c4c08155f6b9.jpg)
 
 ## Configuration
 1. install the app:
