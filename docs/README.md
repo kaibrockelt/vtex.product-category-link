@@ -13,7 +13,7 @@ Product Summary addon providing a deeplink into a product's final category. It i
 ## Configuration
 1. install the app:
 ```shell
-  vtex install 
+  vtex install vtex.product-category-link@0.x
 ```
 2. Import the `vtex.product-category-link` app to your theme's dependencies in the `manifest.json`:
 
