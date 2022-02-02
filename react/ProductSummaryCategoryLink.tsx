@@ -21,6 +21,7 @@ function ProductSummaryCategoryLink({ classes }: Props) {
   const { product, isLoading } = useProductSummary()
   const { handles } = useCssHandles(CSS_HANDLES, { classes })
   const mylink = buildLink(product)
+
   if (isLoading) {
     return (
       <div
@@ -38,8 +39,16 @@ function ProductSummaryCategoryLink({ classes }: Props) {
   function buildLink(pr: any) {
     const categories = pr?.categories[0]
     let lastcat = categories.split('/')
-    const url = categories.toLowerCase().replace(/[ &]/g, '-')
+
+    const url = categories
+      .toLowerCase()
+      .replace(/[\u0300-\u036f]/g, '')
+      .trim()
+      .replace(/[-\s]+/g, '-')
+      .replace(/[ &]/g, '-')
+
     lastcat = lastcat[lastcat.length - 2]
+
     return (
       <a
         href={url}

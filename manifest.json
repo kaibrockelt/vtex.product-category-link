@@ -1,9 +1,9 @@
 {
   "vendor": "vtex",
-  "name": "product-summary",
-  "version": "2.77.1",
-  "title": "Product Summary",
-  "description": "Product summary component",
+  "name": "product-category-link",
+  "version": "0.0.1",
+  "title": "Product Summary Category link",
+  "description": "Product summary component to add a deeplink to a product's final category",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",

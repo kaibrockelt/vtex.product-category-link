@@ -4938,6 +4938,11 @@ union-value@^1.0.0:
     is-extendable "^0.1.1"
     set-value "^2.0.1"
 
+unorm@^1.4.1:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/unorm/-/unorm-1.6.0.tgz#029b289661fba714f1a9af439eb51d9b16c205af"
+  integrity sha512-b2/KCUlYZUeA7JFUuRJZPUtr4gZvBh7tavtv4fvk4+KV9pfGiR6CQAQAWl49ZpR3ts2dk4FYkP7EIgDJoiOLDA==
+
 unset-value@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/unset-value/-/unset-value-1.0.0.tgz#8376873f7d2335179ffb1e6fc3a8ed0dfc8ab559"
@@ -5033,10 +5038,6 @@ verror@1.10.0:
 "vtex.product-summary-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-summary-context@0.8.1/public/@types/vtex.product-summary-context":
   version "0.8.1"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-summary-context@0.8.1/public/@types/vtex.product-summary-context#df39f9e59c3f09246d38b32c90a0f802864cce72"
-
-"vtex.product-summary@https://specification--motoroladevelopment.myvtex.com/_v/private/typings/linked/v1/vtex.product-summary@2.74.1+build1628605519/public/@types/vtex.product-summary":
-  version "2.74.1"
-  resolved "https://specification--motoroladevelopment.myvtex.com/_v/private/typings/linked/v1/vtex.product-summary@2.74.1+build1628605519/public/@types/vtex.product-summary#ec208382c77a57bc3fe48fa01cda790a4039a364"
 
 "vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.131.0/public/@types/vtex.render-runtime":
   version "8.131.0"
