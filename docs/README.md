@@ -35,7 +35,7 @@ Now, you are able to add a category link to the `product-summary` app.
       "product-summary-description",
       "product-summary-category-link",
       "product-summary-image",
-+     "product-summay-category-link",
++     "product-summary-category-link",
       "product-summary-price",
       "product-summary-sku-selector",
       "product-summary-buy-button"
