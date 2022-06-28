@@ -4,9 +4,6 @@
 >All template applications provided are developed by the VTEX community, you can use them freely.
 
 &nbsp;
-
-📢 Use this project, [contribute](https://github.com/vtex-apps/product-summary) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
-
 # Product Summary category link
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
